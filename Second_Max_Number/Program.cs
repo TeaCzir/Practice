@@ -1,6 +1,6 @@
 ﻿//Второе максимальное число.
 Console.Clear();
-int[] number = { 1, 8, 33, 52, 6, 8, 25, 50 };
+int[] number = { 831, 558, 33, 52, 6, 8, 25, 50 };
 int size = 8;
 int current_index = 0;
 int max_number_index = 0;
